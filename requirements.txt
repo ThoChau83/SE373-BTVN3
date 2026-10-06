@@ -1,0 +1,5 @@
+langchain>=1.0
+langgraph>=1.0
+langchain-google-genai>=4.0
+python-dotenv>=1.0
+pydantic>=2
